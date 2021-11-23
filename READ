@@ -1,1 +1,21 @@
-new file
+models dir
+ |
+  ->article.js
+  
+routes dir
+ |
+  ->articles.js
+
+views dir
+ |
+ articles dir
+  |
+   ->_form_fields.ejs
+   ->index.ejs
+   ->new.ejs
+   ->show.ejs
+
+
+server.js
+package.json
+package-lock.json
